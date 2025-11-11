@@ -1,0 +1,6 @@
+.vagrant/
+actions-runner/
+*.ppk
+*.log
+.DS_Store
+.env
